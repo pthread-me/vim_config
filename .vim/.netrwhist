@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/anas/hub/advent_of_code/2023/lib'
 let g:netrw_dirhist_1='/home/anas/.vim'
 let g:netrw_dirhist_0='/home/anas/UNI'
 let g:netrw_dirhist_9='/home/anas/hub'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_6='/home/anas/.config'
 let g:netrw_dirhist_5='/home/anas/.java/.userPrefs'
 let g:netrw_dirhist_4='/home/anas/.java'
 let g:netrw_dirhist_3='/home/anas/.ssh'
-let g:netrw_dirhist_2='/home/anas/hub/advent_of_code/2023'
