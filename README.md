@@ -7,8 +7,7 @@ vim configs that i like
 - then ./build.sh
 
 ## Note:
-- none of these themes are mine, i just picked some that i liked and 
-put them in repo.
+- none of these themes are mine, i just picked some that i liked and put them in repo.
 - rosepine link : [github/rosepine](https://github.com/rose-pine/vim) 
 - will add more *eventually*
 
