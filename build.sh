@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "checking for old configs and deleting them"
-test -f ~/.vimrc && rm ~/.vimrc
-test -f ~/.vim && rm -r ~/.vim
+rm -f ~/.vimrc
+rm -rf ~/.vim
 
 echo "copying new files"
-cp -r .vimrc .vim ../
+cp -r .vimrc .vim ~/
 echo "done"
