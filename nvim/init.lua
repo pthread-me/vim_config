@@ -1,0 +1,8 @@
+require("packer-config")
+require("lspzero-config")
+require("set-config.set")
+require("treesitter-config")
+require("kanagawa-config")
+require("vimtex-config")
+require("telescope-config")
+require("autoclose-config.setup")
