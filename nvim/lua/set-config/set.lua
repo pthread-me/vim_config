@@ -1,8 +1,8 @@
 vim.opt.nu = true
 vim.opt.modifiable = true
 vim.opt.incsearch = true
-vim.opt.tabstop = 4
-vim.opt.shiftwidth = 4
+vim.opt.tabstop = 2
+vim.opt.shiftwidth = 2
 vim.opt.termguicolors = true
 vim.opt.smartindent = termguicolors
 vim.opt.scrolloff = 10
